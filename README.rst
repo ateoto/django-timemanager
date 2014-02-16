@@ -1,5 +1,5 @@
 TimeManager
-============
+===========
 
 Django app to visualize and manage TimeTracker tasks.
 
